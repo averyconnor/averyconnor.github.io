@@ -1,0 +1,31 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Oswald", "Arial Black", Arial, sans-serif;
+}
+
+.hero {
+  position: relative;
+  top: 25vh;
+  width: 50vw;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logotype {
+  color: #f5f5f5;
+  font-size: 3em;
+  text-transform: uppercase;
+  letter-spacing: 7px;
+}
+
+.title {
+  color: #757575;
+  font-size: 1em;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
